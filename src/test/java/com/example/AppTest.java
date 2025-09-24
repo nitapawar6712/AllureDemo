@@ -24,4 +24,10 @@ public class AppTest {
         int diff = a - b;
         assertEquals(diff, 10, "Sum should be 10");
     }
+    public void testMult() {
+        int a = 20;
+        int b = 10;
+        int Mult = a * b;
+        assertEquals(Mult, 200, "Sum should be 200");
+    }
 }
