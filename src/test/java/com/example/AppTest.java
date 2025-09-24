@@ -28,6 +28,6 @@ public class AppTest {
         int a = 20;
         int b = 10;
         int Mult = a * b;
-        assertEquals(Mult, 200, "Sum should be 200");
+        assertEquals(Mult, 200, "Sum should be 200 again");
     }
 }
